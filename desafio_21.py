@@ -1,11 +1,5 @@
 #URI 1049
 
-'''words = input().split()
-
-if words[0] == vertebrado:
-    if words[1] == carnivoro
-    print('agui')
-    else print('')'''
 
 w1 = (input())
 w2 = (input())
